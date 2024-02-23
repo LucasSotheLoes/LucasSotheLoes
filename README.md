@@ -29,5 +29,3 @@ Gosto muito de tecnologia em geral, porem com um aprecesso maior por progamaçâ
   <a href="https://www.linkedin.com/in/lucas-söthe-loes-9627b9227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/LucasSotheLoes/LucasSotheLoes/blob/output/github-contribution-grid-snake.svg)
