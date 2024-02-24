@@ -1,6 +1,6 @@
 ## Ola! Eu sou Lucas Söthe Loes
 
-Gosto muito de tecnologia em geral, porem com um aprecesso maior por progamaçâo e jogos.
+Gosto muito de tecnologia em geral, porem com um apresso maior por progamação e jogos.
 
 <div style="display: inline_block"><br>
   <source https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSotheLoes&hide_progress=true/>
