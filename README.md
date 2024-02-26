@@ -1,4 +1,4 @@
-## Ola! Eu sou Lucas Söthe Loes
+<h2>Ola! Eu sou Lucas Söthe Loes</h2>  <div><img height="80cm" src = "mao.gif"></div>
 
 Gosto muito de tecnologia em geral, porém com um apreço maior por programação e jogos.
 
@@ -9,9 +9,7 @@ Gosto muito de tecnologia em geral, porém com um apreço maior por programaçã
     media="(prefers-color-scheme: dark)"
   />
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=LucasSotheLoes&show_icons=true" />
-</picture>
-<img height="160cm" src = "bannergit.gif">
-<picture>
+  <img height="160cm" src = "bannergit.gif">
 </div>
 
 <div style="display: inline_block"><br>
