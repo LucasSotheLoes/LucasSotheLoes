@@ -1,4 +1,4 @@
-<div><h2>Ola! Eu sou Lucas Söthe Loes</h2>  <div><img height="80cm" src = "mao.gif"></div></div>
+<h2>Ola! Eu sou Lucas Söthe Loes</h2>  
 
 Gosto muito de tecnologia em geral, porém com um apreço maior por programação e jogos.
 
