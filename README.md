@@ -1,7 +1,5 @@
 <h2>Ola! Eu sou Lucas Söthe Loes</h2>  
 
-Cursando Ciência da computação na FURB 3 semestre 
-
 <div style="display: inline_block"><br>
   <source https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSotheLoes&hide_progress=true/>
   <source
